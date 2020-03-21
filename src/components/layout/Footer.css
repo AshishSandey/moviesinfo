@@ -1,0 +1,11 @@
+.footer-container {
+    background-color: black;
+    padding: 10px;
+}
+
+
+.developer-info {
+    font-size: 20;
+    color: white;
+    text-align: center;
+}

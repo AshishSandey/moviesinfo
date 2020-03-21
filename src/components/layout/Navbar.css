@@ -1,0 +1,23 @@
+.navbar-container {
+    background-color: black;
+}
+
+.navbar-container .nav-tiles {
+    list-style-type: none;
+    padding: 8px 2px 8px 2px;
+    margin: 0px;
+}
+
+.navbar-container .nav-tiles li {
+    display: inline-block;
+    padding: 0px 10px;
+    border-right: 1px solid white;
+}
+
+.navbar-container .nav-tiles li a {
+    text-decoration: none;
+    color: white;
+    font-style: italic;
+    font-size: 14px;
+}
+

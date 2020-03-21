@@ -1,0 +1,25 @@
+.moviecard-container {
+    background-color: rgb(70, 67, 67);
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.moviecard-container .poster {
+    display: block;
+    height: 250px;
+    width: 200px;
+    margin: 20px auto;
+}
+
+.moviecard-container .details {
+    font-size: 0.9em;
+    display: block;
+    background-color: rgb(12, 155, 211);
+    margin: 10px auto;
+    width: 60%;
+    padding: 5px;;
+    border-radius: 2px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}

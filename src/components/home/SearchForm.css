@@ -1,0 +1,33 @@
+.search-container {
+    background-color: rgb(37, 37, 37);
+    border: 1px solid rgb(109, 108, 108);
+    width: fit-content;
+    padding: 5px 20px 20px 30px;
+    margin: 10px auto 10px auto;
+}
+
+.description {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    color: rgb(150, 150, 150);
+    line-height: 30px;
+    text-indent: 12px;
+}
+
+.search-box {
+    width: 500px;
+    height: 30px;
+    padding-left: 15px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+}
+
+.search-button {
+    border: 1px solid rgb(37, 37, 37);
+    border-radius: 15px;
+    color: white;
+    background-color: rgb(233, 60, 17);
+    padding: 5px 10px;
+    margin-left: 10px;
+}
+
