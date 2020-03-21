@@ -1,11 +1,17 @@
 .footer-container {
     background-color: black;
     padding: 10px;
+    text-align: center;
 }
 
 
 .developer-info {
     font-size: 20;
     color: white;
-    text-align: center;
+}
+
+.footer-container a {
+    font-size: 20;
+    color: yellow;
+    text-decoration: none;
 }
