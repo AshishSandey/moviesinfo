@@ -21,3 +21,7 @@
     font-size: 14px;
 }
 
+.navbar-container .nav-tiles li a:hover {
+    color: rgb(80, 185, 255);
+}
+

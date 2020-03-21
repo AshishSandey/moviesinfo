@@ -15,3 +15,7 @@
     color: yellow;
     text-decoration: none;
 }
+
+.footer-container a:hover {
+    color: rgb(255, 196, 0);
+}
