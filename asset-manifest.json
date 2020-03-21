@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/github.io/moviesinfo/static/css/main.6bf802cf.chunk.css",
-    "main.js": "/github.io/moviesinfo/static/js/main.f5095360.chunk.js",
-    "main.js.map": "/github.io/moviesinfo/static/js/main.f5095360.chunk.js.map",
-    "runtime-main.js": "/github.io/moviesinfo/static/js/runtime-main.b8a5f5bd.js",
-    "runtime-main.js.map": "/github.io/moviesinfo/static/js/runtime-main.b8a5f5bd.js.map",
-    "static/js/2.d0e19e5b.chunk.js": "/github.io/moviesinfo/static/js/2.d0e19e5b.chunk.js",
-    "static/js/2.d0e19e5b.chunk.js.map": "/github.io/moviesinfo/static/js/2.d0e19e5b.chunk.js.map",
-    "index.html": "/github.io/moviesinfo/index.html",
-    "precache-manifest.e9ee966b268bfa6c9a5c1901acb9fc4f.js": "/github.io/moviesinfo/precache-manifest.e9ee966b268bfa6c9a5c1901acb9fc4f.js",
-    "service-worker.js": "/github.io/moviesinfo/service-worker.js",
-    "static/css/main.6bf802cf.chunk.css.map": "/github.io/moviesinfo/static/css/main.6bf802cf.chunk.css.map",
-    "static/js/2.d0e19e5b.chunk.js.LICENSE.txt": "/github.io/moviesinfo/static/js/2.d0e19e5b.chunk.js.LICENSE.txt",
-    "static/media/redux-logo.svg": "/github.io/moviesinfo/static/media/redux-logo.5c7392a9.svg"
+    "main.css": "/moviesinfo/static/css/main.6bf802cf.chunk.css",
+    "main.js": "/moviesinfo/static/js/main.82ce6812.chunk.js",
+    "main.js.map": "/moviesinfo/static/js/main.82ce6812.chunk.js.map",
+    "runtime-main.js": "/moviesinfo/static/js/runtime-main.5112a090.js",
+    "runtime-main.js.map": "/moviesinfo/static/js/runtime-main.5112a090.js.map",
+    "static/js/2.d0e19e5b.chunk.js": "/moviesinfo/static/js/2.d0e19e5b.chunk.js",
+    "static/js/2.d0e19e5b.chunk.js.map": "/moviesinfo/static/js/2.d0e19e5b.chunk.js.map",
+    "index.html": "/moviesinfo/index.html",
+    "precache-manifest.bf51d9d82c748f206e17fe5321512504.js": "/moviesinfo/precache-manifest.bf51d9d82c748f206e17fe5321512504.js",
+    "service-worker.js": "/moviesinfo/service-worker.js",
+    "static/css/main.6bf802cf.chunk.css.map": "/moviesinfo/static/css/main.6bf802cf.chunk.css.map",
+    "static/js/2.d0e19e5b.chunk.js.LICENSE.txt": "/moviesinfo/static/js/2.d0e19e5b.chunk.js.LICENSE.txt",
+    "static/media/redux-logo.svg": "/moviesinfo/static/media/redux-logo.5c7392a9.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b8a5f5bd.js",
+    "static/js/runtime-main.5112a090.js",
     "static/js/2.d0e19e5b.chunk.js",
     "static/css/main.6bf802cf.chunk.css",
-    "static/js/main.f5095360.chunk.js"
+    "static/js/main.82ce6812.chunk.js"
   ]
 }
